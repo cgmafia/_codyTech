@@ -1,8 +1,8 @@
 import os
 import filecmp
 
-x = r"\\ITSEELM-NT0030.ikea.com\Common_I\ICOM-3D-MODEL-PARTS-A\Montera\database\geometry"
-y = r"\\ITSEELM-NT0030.ikea.com\Common_I\ICOM-3D-MODEL-PARTS-A\Montera\database\assembly"
+x = r"\\Targetfolder_1"
+y = r"\\Targetfolder_2"
 
 
 txt  = open("compare.txt", "w") 

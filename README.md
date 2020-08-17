@@ -1,4 +1,3 @@
-# Anand Venky #### aka # CGMafia
-Collection of my scripts
-#### Enjoy
+# Collection of my scripts
+#### anand venkataraman
 
